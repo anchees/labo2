@@ -1,8 +1,9 @@
 #!/usr/bin/env -S gnuplot -persist
-# set terminal png enhanced
-# set output "my_graph.png"
+set terminal png enhanced
+set output 'graphiamge.png'
 set xlabel "x" 
 set ylabel "f(x)"
 set grid
 set title "График функции f(x)"
-plot "my_graph.txt" with lines title "f(x)"
+
+plot "graph.txt" with lines title "f(x)"
