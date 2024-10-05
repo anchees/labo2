@@ -1,6 +1,6 @@
 #!/usr/bin/env -S gnuplot -persist
 set terminal png enhanced
-set output 'graphiamge.png'
+set output 'graphimage.png'
 set xlabel "x" 
 set ylabel "f(x)"
 set grid
