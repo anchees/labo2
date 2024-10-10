@@ -57,5 +57,4 @@
 - https://younglinux.info/c/fopen
 - https://codelessons.dev/ru/fprintf-in-c-cplusplus/
 - https://habr.com/ru/companies/ruvds/articles/517450/
-- https://habr.com/ru/companies/ruvds/articles/517450/
 - https://www.youtube.com/watch?v=mYBr-Yb70Z4&ab_channel=oxyscbw
