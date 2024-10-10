@@ -13,7 +13,13 @@
 - Ссылки на используемые материалы
 
 ### Задание варианта:
-![var7](var7.png)
+$$
+f(x) =
+  \begin{cases}
+    e^{-2sin x} \text{,}       & -1 \leq x \leq 1 \text{;} \\
+    x^2 - ctg x \text{,} & 1 < x \leq 2 \text{.}
+  \end{cases}
+$$
 
 
 
