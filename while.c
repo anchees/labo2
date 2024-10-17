@@ -15,7 +15,7 @@ int main(){
             fprintf(graph, "%lf\t%lf\n", x, pow(x,2)-cos(x)/sin(x));
             printf("%lf\t%lf\n", x, pow(x,2)-cos(x)/sin(x));
         }
-        x+=h;
+        x+=(h/2);
         x=round(x*1000000)/1000000;
     }
     fclose(graph);
